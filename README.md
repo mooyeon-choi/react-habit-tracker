@@ -36,6 +36,11 @@
   ```bash
   yarn install
   ```
+  
+### Start
+```bash
+yarn start
+```
 
 
 
